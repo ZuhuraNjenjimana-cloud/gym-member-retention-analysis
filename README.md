@@ -49,7 +49,7 @@ For this case study, I investigated:
 
 The interactive Tableau dashboard visualizes overall churn and key patterns across member engagement, distance, contract type, and app adoption.
 
-**[View the Interactive Tableau Dashboard]([PASTE-YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/views/GymMemberEngagementRetentionAnalysis/WillTheyStayorWillTheyChurn?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))**
+**[View the Interactive Tableau Dashboard]([(https://public.tableau.com/views/GymMemberEngagementRetentionAnalysis/WillTheyStayorWillTheyChurn?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)])**
 
 ---
 
