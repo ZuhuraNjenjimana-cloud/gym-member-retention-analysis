@@ -1,3 +1,4 @@
+```sql
 -- ============================================================
 -- WILL THEY STAY OR WILL THEY CHURN?
 -- Gym Member Engagement & Retention Analysis
@@ -357,3 +358,4 @@ SELECT
         WHEN app_installed = 0 THEN churned_by_febru
     END AS non_app_users_churn
 FROM users;
+```
